@@ -1,0 +1,24 @@
+a. What is dialog?
+
+Ans: A dialog is a small window that helps user to make his decision
+     like whether to close the app or to continue the app there are two
+     types of dialog boxes they are as follows:
+
+	1. Default dialog box.
+	2. Custom dialog box.
+
+
+b. How to create custom dialog? 
+
+Ans: A dialog box is created initiated declared and the layout of the
+     dialog is taken from the UI that has been created and it is bound
+     using the Layout Inflator and while running the program the dialog
+     will use the layout of the UI that has been bound using layout inflater.
+
+
+c. How to use existing dialogs?
+
+Ans: Dialog fragment has to be used to display the existing dialogs because
+     showDialog (int) has been deprecated in android studio.
+
+Ans:
